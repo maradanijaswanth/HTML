@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(203, 223, 221);
+}
+a{  
+    color: rgb(58, 2, 2);
+    text-decoration: none;
+    text-align: center;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: yellowgreen;
+}
+.button-div{
+    background-color: rgba(3, 16, 16, 0.701);
+    color: rgb(251, 254, 255);
+    border: none;
+    margin-top: 8px;
+    padding:  5px 8px;
+}
+.button-div:hover{
+    color: whitesmoke;
+    background-color: red;
+}
+
+h3{
+    color: rgb(254, 5, 51);
+    font:normal
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font: normal 1;
+    color: rgba(100, 8, 221, 0.977);
+    line-height: 1.5em;
+}
+
+.design-box p{
+    color: rgb(158, 131, 120);
+    line-height: 1.3em;
+     border: 2px black solid;
+     padding: 15px 25px 15px 25px;
+     margin: 40px;
+}
+.form-design{
+    border: 2px black solid;
+    padding: 20px;
+    margin: 10px;
+}
+.form-design.div-design{
+    padding-bottom: 10px;
+   
+    
+}
+.form-design label{
+    display: block;
+
+}
+.form-design input[type="text"], .form-design input[type="password"]{
+    padding: 8px 5px;
+    width: 100%;
+
+}
+
+
+.form-design1{
+    border: 2px black solid;
+    padding: 20px;
+    margin: 10px;
+}
+.div-design1{
+    padding-bottom: 10px;
+    text-align: center;
+   
+    
+}
+
+
